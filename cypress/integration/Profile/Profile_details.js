@@ -22,6 +22,7 @@ it('Pulse login', function(){
     cy.get('.c0136').click()
     
     cy.wait(5000)
+    
 
 
     //Accept cookie pop up
